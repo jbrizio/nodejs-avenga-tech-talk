@@ -1,0 +1,14 @@
+{
+  "name": "msw-mock-api",
+  "version": "1.0.0",
+  "description": "Mock server built with msw to replicate an API",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Brizio",
+  "license": "MIT",
+  "devDependencies": {
+    "msw": "^2.3.1"
+  }
+}
